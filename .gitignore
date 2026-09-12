@@ -1,0 +1,46 @@
+# ROS 2 generated directories
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backup/debug copies
+*.bak
+*.backup
+*.pre_pointcloud_backup
+*.rgbd_backup
+*.bak_*
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+*~
+
+# ROS logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Generated CV experiment outputs
+cv_experiments/blue_mask.png
+cv_experiments/classified_objects.png
+cv_experiments/detected_colors.png
+cv_experiments/green_mask.png
+cv_experiments/number_1_processed.png
+cv_experiments/number_2_processed.png
+cv_experiments/number_3_processed.png
+cv_experiments/number_4_processed.png
+cv_experiments/number_5_processed.png
+cv_experiments/number_binary.png
+cv_experiments/number_region.png
+cv_experiments/red_mask.png
+cv_experiments/shelf_number_detection.png
+cv_experiments/yellow_mask.png

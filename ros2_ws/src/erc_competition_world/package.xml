@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="3">
+
+  <name>erc_competition_world</name>
+  <version>0.0.1</version>
+
+  <description>
+    ERC 2026 fixed competition arena for TIAGo Pro simulation.
+  </description>
+
+  <maintainer email="ghala@example.com">ghala</maintainer>
+
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>gazebo_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+
+</package>
